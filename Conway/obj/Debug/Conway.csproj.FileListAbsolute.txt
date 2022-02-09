@@ -1,0 +1,15 @@
+C:\Users\krammejo\source\repos\Conway\Conway\obj\Debug\Conway.csprojAssemblyReference.cache
+C:\Users\krammejo\source\repos\Conway\Conway\obj\Debug\MainWindow.g.cs
+C:\Users\krammejo\source\repos\Conway\Conway\obj\Debug\App.g.cs
+C:\Users\krammejo\source\repos\Conway\Conway\obj\Debug\MainWindow.baml
+C:\Users\krammejo\source\repos\Conway\Conway\obj\Debug\Conway.csproj.GenerateResource.cache
+C:\Users\krammejo\source\repos\Conway\Conway\obj\Debug\Conway.csproj.CoreCompileInputs.cache
+C:\Users\krammejo\source\repos\Conway\Conway\bin\Debug\Conway.exe.config
+C:\Users\krammejo\source\repos\Conway\Conway\bin\Debug\Conway.exe
+C:\Users\krammejo\source\repos\Conway\Conway\bin\Debug\Conway.pdb
+C:\Users\krammejo\source\repos\Conway\Conway\obj\Debug\Conway_MarkupCompile.cache
+C:\Users\krammejo\source\repos\Conway\Conway\obj\Debug\Conway_MarkupCompile.lref
+C:\Users\krammejo\source\repos\Conway\Conway\obj\Debug\Conway.g.resources
+C:\Users\krammejo\source\repos\Conway\Conway\obj\Debug\Conway.Properties.Resources.resources
+C:\Users\krammejo\source\repos\Conway\Conway\obj\Debug\Conway.exe
+C:\Users\krammejo\source\repos\Conway\Conway\obj\Debug\Conway.pdb
